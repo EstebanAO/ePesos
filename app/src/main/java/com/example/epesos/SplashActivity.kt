@@ -1,26 +1,25 @@
 package com.example.epesos
 
+import android.content.Intent
 import android.os.Bundle
-import com.google.android.material.snackbar.Snackbar
+import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.Menu
 import android.view.MenuItem
+import android.view.Window
+import androidx.core.content.ContextCompat
+import com.example.epesos.login.view.LoginActivity
 
-import kotlinx.android.synthetic.main.activity_main.*
-
-class MainActivity : AppCompatActivity() {
+class SplashActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        window.requestFeature(Window.FEATURE_NO_TITLE)
+        supportActionBar?.hide()
         setContentView(R.layout.splash_activity)
-        setSupportActionBar(toolbar)
-
-    }
-
-    override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        menuInflater.inflate(R.menu.menu_main, menu)
-        return true
+        val intent = Intent(this, LoginActivity::class.java)
+        val handler = Handler()
+        handler.postDelayed({ ContextCompat.startActivity(this, intent, null) }, 1500)
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
