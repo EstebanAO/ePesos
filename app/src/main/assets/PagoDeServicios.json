@@ -1,0 +1,194 @@
+{
+    "success": true,
+    "msg": "OK",
+    "data": [
+        {
+            "supplier_id": "8db76c83-cba4-4b94-b8c5-0c8ea7375548",
+            "category": "Internet y Televisión",
+            "name": "Megacable",
+            "company": "MEGACABLE",
+            "url_logo": "https://www.epesos.com/Content/img/Megacable.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "408d24b4-0b16-47a1-a02e-7792e821b5dd",
+                    "sku": "8469761001916",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        },
+        {
+            "supplier_id": "17b26ea5-c1e1-4b31-9d6e-a4cf1a1b3b8a",
+            "category": "Pagar Servicios",
+            "name": "Gas Naturgy",
+            "company": "GAS NATURAL",
+            "url_logo": "https://www.epesos.com/Content/img/gasnatura.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "e198a6de-89cb-479e-9566-384016deb512",
+                    "sku": "8469760000309",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        },
+        {
+            "supplier_id": "6377b2fc-9aad-4619-80d5-b5f6272824f7",
+            "category": "Internet y Televisión",
+            "name": "SKY",
+            "company": "SKY",
+            "url_logo": "https://www.epesos.com/Content/img/sky.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "48438484-33c2-4f72-b5a1-3514b95963ff",
+                    "sku": "8469760002136",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        },
+        {
+            "supplier_id": "a50add11-a76c-41df-943c-b73a1a21ee85",
+            "category": "Pagar Servicios",
+            "name": "Infonavit",
+            "company": "INFONAVIT",
+            "url_logo": "https://www.epesos.com/Content/img/infonavit.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "f7434458-5522-4359-b2be-c89350528167",
+                    "sku": "8469760000187",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        },
+        {
+            "supplier_id": "5389aa69-8388-4e8e-bb65-bea998f8e583",
+            "category": "Pagar Servicios",
+            "name": "Telmex",
+            "company": "TELMEX ONLINE",
+            "url_logo": "https://www.epesos.com/Content/img/telmex.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "c395e6e0-a337-4a57-984e-1e2365396fe5",
+                    "sku": "8469761001886",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        },
+        {
+            "supplier_id": "446df514-4a3c-49bc-b11e-c47ed33322a4",
+            "category": "Pagar Servicios",
+            "name": "CFE",
+            "company": "CFE",
+            "url_logo": "https://www.epesos.com/Content/img/CFE.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": true,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "5bbb6cb6-cc25-40d9-9d4e-f36f2a9332e1",
+                    "sku": "8469760000149",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        },
+        {
+            "supplier_id": "fa85fb67-3c38-42b0-af4b-d63479b9bd49",
+            "category": "Internet y Televisión",
+            "name": "VeTV",
+            "company": "VeTV",
+            "url_logo": "https://www.epesos.com/Content/img/vetv.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": null
+        },
+        {
+            "supplier_id": "aa15200d-caee-4ddd-bcfe-dc26b1b619aa",
+            "category": "Pagar Servicios",
+            "name": "Agua y Drenaje Monterrey",
+            "company": "Agua y Drenaje (Monterrey)",
+            "url_logo": "https://www.epesos.com/Content/img/aguaydren.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "b7ade086-ecc2-473f-9b3e-ab768788e4d2",
+                    "sku": "8469760000293",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        },
+        {
+            "supplier_id": "925700a2-0331-45a3-ba42-e53e00175946",
+            "category": "Internet y Televisión",
+            "name": "IZZI",
+            "company": "IZZI",
+            "url_logo": "https://www.epesos.com/Content/img/izzi.png",
+            "url_indications": "",
+            "type": "BillPayments",
+            "is_online": false,
+            "products": null,
+            "services": [
+                {
+                    "service_id": "5be3af5d-a6f2-4486-b191-00c223e3b1ee",
+                    "sku": "8469760002396",
+                    "commission": "0.0000",
+                    "response_type": "",
+                    "return_info": false,
+                    "status": false,
+                    "response_time": ""
+                }
+            ]
+        }
+    ]
+}

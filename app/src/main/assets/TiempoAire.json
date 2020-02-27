@@ -1,0 +1,330 @@
+{
+    "success": true,
+    "msg": "OK",
+    "data": [
+        {
+            "supplier_id": "569911db-649b-499a-8981-26764d055812",
+            "category": "Compra de Tiempo Aire",
+            "name": "Movistar",
+            "company": "MOVISTAR",
+            "url_logo": "https://www.epesos.com/Content/img/movistarsquare.png",
+            "url_indications": "",
+            "type": "AirtimeTopUps",
+            "is_online": false,
+            "products": [
+                {
+                    "product_id": "7812d3fc-6d3e-4e04-a608-1883bdbe9e46",
+                    "description": "MOVISTAR-100",
+                    "amount": "100.0000",
+                    "sku": "7779860101006",
+                    "status": false
+                },
+                {
+                    "product_id": "0519a30b-16bd-4ece-a004-4ededb459c3f",
+                    "description": "MOVISTAR-50",
+                    "amount": "50.0000",
+                    "sku": "7779860100504",
+                    "status": false
+                },
+                {
+                    "product_id": "f79dfced-e602-4fa8-af62-52695ea9c3e2",
+                    "description": "MOVISTAR-20",
+                    "amount": "20.0000",
+                    "sku": "7779860100207",
+                    "status": false
+                },
+                {
+                    "product_id": "d5da05bb-a770-433b-9acb-86c12df73851",
+                    "description": "MOVISTAR-500",
+                    "amount": "500.0000",
+                    "sku": "7779860105004",
+                    "status": false
+                },
+                {
+                    "product_id": "fe3dd99c-5bf0-4c27-973e-9b8093eb8391",
+                    "description": "MOVISTAR-200",
+                    "amount": "200.0000",
+                    "sku": "7779860102003",
+                    "status": false
+                },
+                {
+                    "product_id": "97d93633-632f-4677-894b-b0d0db34810a",
+                    "description": "MOVISTAR-150",
+                    "amount": "150.0000",
+                    "sku": "7779860101501",
+                    "status": false
+                },
+                {
+                    "product_id": "3fe75558-e83f-42f8-bc03-d1e7d85391e6",
+                    "description": "MOVISTAR-30",
+                    "amount": "30.0000",
+                    "sku": "7779860100306",
+                    "status": false
+                },
+                {
+                    "product_id": "3698e973-6c96-4805-989a-eac33b1ec37e",
+                    "description": "MOVISTAR-300",
+                    "amount": "300.0000",
+                    "sku": "7779860103000",
+                    "status": false
+                }
+            ],
+            "services": null
+        },
+        {
+            "supplier_id": "9fa8f90c-78a0-4b18-919b-2932737c15be",
+            "category": "Compra de Tiempo Aire",
+            "name": "Telcel",
+            "company": "TELCEL",
+            "url_logo": "https://www.epesos.com/Content/img/telcelsquare.png",
+            "url_indications": "",
+            "type": "AirtimeTopUps",
+            "is_online": false,
+            "products": [
+                {
+                    "product_id": "74db5b95-50e0-408c-95a2-17a3a87bd03c",
+                    "description": "TELCEL CM-30",
+                    "amount": "30.0000",
+                    "sku": "8482870100301",
+                    "status": false
+                },
+                {
+                    "product_id": "8c0f5b6c-8efa-4b3d-8fb3-36e9d56c487f",
+                    "description": "TELCEL CM-100",
+                    "amount": "100.0000",
+                    "sku": "8482870101001",
+                    "status": false
+                },
+                {
+                    "product_id": "df38fc88-29f8-40e4-9cde-72b37a9ee07c",
+                    "description": "TELCEL CM-20",
+                    "amount": "20.0000",
+                    "sku": "8482870100202",
+                    "status": false
+                },
+                {
+                    "product_id": "24a70154-71ce-442b-9d84-7d3f7a23824b",
+                    "description": "TELCEL CM-200",
+                    "amount": "200.0000",
+                    "sku": "8482870102008",
+                    "status": false
+                },
+                {
+                    "product_id": "7f4a87cf-d092-40e2-8fd2-be97f653cdf1",
+                    "description": "TELCEL CM-500",
+                    "amount": "500.0000",
+                    "sku": "8482870105009",
+                    "status": false
+                },
+                {
+                    "product_id": "2f7ff238-012b-4888-8ab3-c89cc8685e5f",
+                    "description": "TELCEL CM-300",
+                    "amount": "300.0000",
+                    "sku": "8482870103005",
+                    "status": false
+                },
+                {
+                    "product_id": "e768ef7d-d439-4d57-9da5-de6e65bb10fb",
+                    "description": "TELCEL CM-50",
+                    "amount": "50.0000",
+                    "sku": "8482870100509",
+                    "status": false
+                },
+                {
+                    "product_id": "3710463a-2c12-486d-baa1-fc10a8a78d10",
+                    "description": "TELCEL CM-150",
+                    "amount": "150.0000",
+                    "sku": "8482870101506",
+                    "status": false
+                }
+            ],
+            "services": null
+        },
+        {
+            "supplier_id": "ef127d13-b2b8-4b8e-8e3f-a26c4924030f",
+            "category": "Compra de Tiempo Aire",
+            "name": "Virgin Mobile",
+            "company": "VIRGIN",
+            "url_logo": "https://www.epesos.com/Content/img/virgin.png",
+            "url_indications": "",
+            "type": "AirtimeTopUps",
+            "is_online": false,
+            "products": [
+                {
+                    "product_id": "1b12aad0-939f-49c6-9673-045cc7d6fd67",
+                    "description": "VIRGIN-20",
+                    "amount": "20.0000",
+                    "sku": "8470030100209",
+                    "status": false
+                },
+                {
+                    "product_id": "7fd1312a-d790-4ca8-9ada-1f83e20edb2c",
+                    "description": "VIRGIN-30",
+                    "amount": "30.0000",
+                    "sku": "8470030100308",
+                    "status": false
+                },
+                {
+                    "product_id": "40588b0d-7f8d-4e35-a96b-35724dd46cc7",
+                    "description": "VIRGIN-300",
+                    "amount": "300.0000",
+                    "sku": "8470030103002",
+                    "status": false
+                },
+                {
+                    "product_id": "3509ab3c-4b45-4b3e-a77a-65ffbe3f70be",
+                    "description": "VIRGIN-40",
+                    "amount": "40.0000",
+                    "sku": "8470030100407",
+                    "status": false
+                },
+                {
+                    "product_id": "0ab2956f-0213-4e94-af8f-681275171bd1",
+                    "description": "VIRGIN-150",
+                    "amount": "150.0000",
+                    "sku": "8470030101503",
+                    "status": false
+                },
+                {
+                    "product_id": "2a7caa63-23c5-4897-9da4-6d4d28b65ff2",
+                    "description": "VIRGIN-200",
+                    "amount": "200.0000",
+                    "sku": "8470030102005",
+                    "status": false
+                },
+                {
+                    "product_id": "c2b25d68-0ec8-4b09-98b7-6d6ac540eb13",
+                    "description": "VIRGIN-50",
+                    "amount": "50.0000",
+                    "sku": "8470030100506",
+                    "status": false
+                },
+                {
+                    "product_id": "a7988882-8d67-4daf-85d2-a0ca1529a2c1",
+                    "description": "VIRGIN-500",
+                    "amount": "500.0000",
+                    "sku": "8470030105006",
+                    "status": false
+                },
+                {
+                    "product_id": "cb5f77b5-c4bc-4918-ae27-b5043a90eeda",
+                    "description": "VIRGIN-100",
+                    "amount": "100.0000",
+                    "sku": "8470030101008",
+                    "status": false
+                }
+            ],
+            "services": null
+        },
+        {
+            "supplier_id": "71c17570-4904-47af-83fb-a9d1c03a3c76",
+            "category": "Compra de Tiempo Aire",
+            "name": "AT&T",
+            "company": "AT&T",
+            "url_logo": "https://www.epesos.com/Content/img/attsquare.png",
+            "url_indications": "",
+            "type": "AirtimeTopUps",
+            "is_online": false,
+            "products": [
+                {
+                    "product_id": "edfb0e64-7dc1-4bb0-98a4-0e3547af7125",
+                    "description": "AT&T-500",
+                    "amount": "500.0000",
+                    "sku": "7385830105006",
+                    "status": false
+                },
+                {
+                    "product_id": "02478a7c-665e-4ce3-89d8-6b4db3d95963",
+                    "description": "AT&T-100",
+                    "amount": "100.0000",
+                    "sku": "7385830101008",
+                    "status": false
+                },
+                {
+                    "product_id": "123bb961-1992-4631-b456-7cd946237ec5",
+                    "description": "AT&T-200",
+                    "amount": "200.0000",
+                    "sku": "7385830102005",
+                    "status": false
+                },
+                {
+                    "product_id": "4ab65e7d-da22-4c8e-9cd9-8a9e9fa43560",
+                    "description": "AT&T-50",
+                    "amount": "50.0000",
+                    "sku": "7385830100504",
+                    "status": false
+                },
+                {
+                    "product_id": "0e4f12ba-85c4-4d74-8f71-909240dd33f9",
+                    "description": "AT&T-300",
+                    "amount": "300.0000",
+                    "sku": "7385830103002",
+                    "status": false
+                },
+                {
+                    "product_id": "15b8ac0b-d3c4-4a70-9e2e-f9ba2603cb8d",
+                    "description": "AT&T-150",
+                    "amount": "150.0000",
+                    "sku": "7501882601017",
+                    "status": false
+                }
+            ],
+            "services": null
+        },
+        {
+            "supplier_id": "d763b757-9e5b-47bc-94fe-eaef917c219e",
+            "category": "Compra de Tiempo Aire",
+            "name": "Unefon",
+            "company": "UNEFON",
+            "url_logo": "https://www.epesos.com/Content/img/unefonsquare.png",
+            "url_indications": "",
+            "type": "AirtimeTopUps",
+            "is_online": false,
+            "products": [
+                {
+                    "product_id": "98835485-15b7-47c1-9636-3005b476e371",
+                    "description": "UNEFON-50",
+                    "amount": "50.0000",
+                    "sku": "8578690100505",
+                    "status": false
+                },
+                {
+                    "product_id": "66c9a866-a8ba-4547-9343-3168a7942471",
+                    "description": "UNEFON-150",
+                    "amount": "150.0000",
+                    "sku": "8578690101502",
+                    "status": false
+                },
+                {
+                    "product_id": "7b6774e9-f046-4b70-95c0-5fcac0710dc1",
+                    "description": "UNEFON-500",
+                    "amount": "500.0000",
+                    "sku": "8578690105005",
+                    "status": false
+                },
+                {
+                    "product_id": "20ede8dd-6ffe-479a-a0b7-a7c54911cf3c",
+                    "description": "UNEFON-300",
+                    "amount": "300.0000",
+                    "sku": "8578690103001",
+                    "status": false
+                },
+                {
+                    "product_id": "1666809c-67c3-4b54-8109-bc0e8ba66bd1",
+                    "description": "UNEFON-200",
+                    "amount": "200.0000",
+                    "sku": "8578690102004",
+                    "status": false
+                },
+                {
+                    "product_id": "0d21367a-c9e4-4154-be3e-ee08822a744a",
+                    "description": "UNEFON-100",
+                    "amount": "100.0000",
+                    "sku": "7501882601000",
+                    "status": false
+                }
+            ],
+            "services": null
+        }
+    ]
+}
