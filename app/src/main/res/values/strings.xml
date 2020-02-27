@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ePesos</string>
     <string name="action_settings">Settings</string>
+    <string name="payment">Pagos</string>
+    <string name="withdraw">Retira</string>
+    <string name="transaction">Transacción</string>
+    <string name="messages">Mensajes</string>
+    <string name="chat">Chat</string>
 </resources>

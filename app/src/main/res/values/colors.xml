@@ -6,4 +6,6 @@
     <color name="colorGray">#b5b5b5</color>
     <color name="colorEPesos">#39A934</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
 </resources>
