@@ -5,9 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.epesos.R
 import android.os.Bundle
 import android.view.Window
-import android.widget.Toast
 import androidx.core.content.ContextCompat
-import com.example.epesos.home.view.MainActivity
+import com.example.epesos.home.view.HomeActivity
 import com.example.epesos.login.model.LoginInteractor
 import com.example.epesos.login.presenter.LoginPresenter
 import kotlinx.android.synthetic.main.login_activity.*
@@ -40,7 +39,7 @@ class LoginActivity : AppCompatActivity(), LoginView {
     }
 
     override fun login() {
-        val intent = Intent(this, MainActivity::class.java)
+        val intent = Intent(this, HomeActivity::class.java)
         ContextCompat.startActivity(this, intent, null)
     }
 

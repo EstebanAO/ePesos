@@ -2,7 +2,6 @@ package com.example.epesos.home.view
 
 import android.os.Bundle
 import android.view.MenuItem
-import android.view.View
 import android.view.Window
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
@@ -10,7 +9,7 @@ import androidx.viewpager.widget.ViewPager
 import com.example.epesos.R
 import com.google.android.material.tabs.TabLayout
 
-class MainActivity : AppCompatActivity() {
+class HomeActivity : AppCompatActivity() {
     lateinit var tabs : TabLayout
     lateinit var viewPager: ViewPager
     lateinit var sectionsPagerAdapter : MainPagerAdapter
@@ -19,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         window.requestFeature(Window.FEATURE_NO_TITLE)
         supportActionBar?.hide()
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_home)
 
         sectionsPagerAdapter = MainPagerAdapter(this, supportFragmentManager)
         viewPager = findViewById(R.id.view_pager)

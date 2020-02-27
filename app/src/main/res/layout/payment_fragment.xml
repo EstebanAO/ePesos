@@ -9,7 +9,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            tools:context=".home.view.MainActivity"
+            tools:context=".home.view.HomeActivity"
             android:background="@drawable/green_gradient"
             android:layout_marginBottom="50dp">
 
