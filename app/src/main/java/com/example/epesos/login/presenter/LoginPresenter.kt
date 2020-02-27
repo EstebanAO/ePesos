@@ -16,7 +16,7 @@ class LoginPresenter(private var loginView: LoginView?, private val loginInterac
     }
 
     override fun onResultSuccess(logged_in :Boolean ) {
-        loginView?.hideProgress()
+        loginView?.login()
     }
 
     override fun onResultFail(strError: String) {
